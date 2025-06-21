@@ -110,7 +110,7 @@
                 <div class="project-title">Academic Performance Tracker</div>
             </div>
             <div class="nav">
-                <a href="index1.php">Home</a>
+                <a href="index.php">Home</a>
                 <a href="login.php">Login</a>
             </div>
         </div>
